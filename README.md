@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **https://t.me/MAD101_bot**
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADM00103)](https://git.io/streak-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/NETSTALKER_RU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ADM00103" height="30" width="40" /></a>
