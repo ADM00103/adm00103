@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Dunaev Adm</h1>
+
+<h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi 👋,+I'm+Victor+Dunaev+Adm)](https://git.io/typing-svg) </h1>
+
 <h3 align="center">Ethical Hacker | Assistant at Security | Web Developer </h3>
 
 - 🔭 I’m currently working on **ADM**
