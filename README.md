@@ -20,6 +20,15 @@
 - 📫 How to reach me: [ https://t.me/MAD101_bot ]
 ```
 
+<ul id="navbar">
+  <li><a href="https://t.me/adm00103">About me</a></li>
+  <li><a href="https://t.me/id_adm00103">My Telegram</a></li>
+  <li><a href="https://t.me/NETSTALKER_RU">Hacking Telegram</a></li>
+  <li><a href="https://t.me/MAD101_bot">Contact with me</a></li>
+  <li><a href="https://vk.com/id_adm00103">My Vk</a></li>
+</ul>
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADM00103)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=32F750&lines=101+101+101+101+101+101+101+101+101+101+101+101+101+101+101)](https://git.io/typing-svg)
