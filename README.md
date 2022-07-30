@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Ethical Hacking, PHP, Youtube, Games, System Administrator**
 
-- 📫 How to reach me ["https://t.me/MAD101_bot"]
+- 📫 How to reach me [ **https://t.me/MAD101_bot** ]
 ```
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADM00103)](https://git.io/streak-stats)
