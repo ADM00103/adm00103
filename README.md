@@ -9,15 +9,15 @@
 <h3 align="center">Ethical Hacker | Assistant at Security | Web Developer </h3>
 
 ```yaml
-- 🔭 I’m currently working on **ADM**
+- 🔭 I’m currently working on: **ADM**
 
 - 🌱 I’m currently learning **web development and system administrator**
 
-- 📝 I regularly write articles on [https://t.me/NETSTALKER_RU](https://t.me/NETSTALKER_RU)
+- 📝 I regularly write articles on [ https://t.me/NETSTALKER_RU ]
 
 - 💬 Ask me about **Ethical Hacking, PHP, Youtube, Games, System Administrator**
 
-- 📫 How to reach me [ **https://t.me/MAD101_bot** ]
+- 📫 How to reach me [ https://t.me/MAD101_bot ]
 ```
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADM00103)](https://git.io/streak-stats)
