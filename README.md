@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: [ https://t.me/MAD101_bot ]
 
-📈 NEWS
+📈 NEWS :
 • https://vk.com/id_adm00103  — VK 🎈
 • http://t.me/id_adm00103 — ЛИЧНЫЙ TELEGRAM ⚡️ 
 • https://t.me/NETSTALKER_RU — FREE КАНАЛ 🔥 
