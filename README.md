@@ -18,6 +18,18 @@
 - 💬 Ask me about: Ethical Hacking, PHP, Youtube, Games, System Administrator
 
 - 📫 How to reach me: [ https://t.me/MAD101_bot ]
+
+📈 NEWS
+• https://vk.com/id_adm00103  — VK 🎈
+• http://t.me/id_adm00103 — ЛИЧНЫЙ TELEGRAM ⚡️ 
+• https://t.me/NETSTALKER_RU — FREE КАНАЛ 🔥 
+• http://vk.com/mebru — МОЯ ГРУППА VK 💜 
+• http://youtube.com/adm00103  ❤️
+• https://t.me/chattelegram101 — Беседа TG 🇷🇺
+• https://discord.gg/qWZZBbwNfd   — Discord 🧩
+• vk.cc/c37dn7 — Беседа 🎈
+
+
 ```
 
 <center>
@@ -30,15 +42,6 @@
   <li><a href="https://t.me/MAD101_bot"> 💌 Contact with me 💌 </a></li>
   <li><a href="https://vk.com/id_adm00103"> 🍏 My Vk 🍏 </a></li>
   
-  📈 NEWS
-• https://vk.com/id_adm00103  — VK 🎈
-• http://t.me/id_adm00103 — ЛИЧНЫЙ TELEGRAM ⚡️ 
-• https://t.me/NETSTALKER_RU — FREE КАНАЛ 🔥 
-• http://vk.com/mebru — МОЯ ГРУППА VK 💜 
-• http://youtube.com/adm00103  ❤️
-• https://t.me/chattelegram101 — Беседа TG 🇷🇺
-• https://discord.gg/qWZZBbwNfd   — Discord 🧩
-• vk.cc/c37dn7 — Беседа 🎈
 
   
 </ul>
